@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+streamlit
+google-api-python-client
+google-auth-oauthlib
+python-dateutil
+langgraph
+pydantic
+pydantic-settings
+requests
+langchain-core  # Add this line
+pydantic
+pydantic-settings
+langchain-core
+langgraph
